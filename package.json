@@ -1,0 +1,11 @@
+{
+  "script": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "core-js": "^3.36.0",
+    "leaflet": "^1.9.4",
+    "lodash-es": "^4.17.21"
+  }
+}
